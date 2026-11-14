@@ -12,3 +12,4 @@ git log --oneline
 mkdir kadai_005
 cd kadai_005/
 touch kadai_005.txt
+history > kadai_005.txt

@@ -9,7 +9,3 @@ echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m "日本語訳を追記"
 git log --oneline
-mkdir kadai_005
-cd kadai_005/
-touch kadai_005.txt
-history > kadai_005.txt
